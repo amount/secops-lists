@@ -1,1 +1,12 @@
-
+197.231.221.211 # Wannacry
+128.31.0.39 # Wannacry
+149.202.160.69 # Wannacry
+46.101.166.19 # Wannacry
+91.121.65.179 # Wannacry
+34.225.46.51 # Shlayer
+204.155.30.109 # More_eggs
+209.197.30.182 #suspicous IP
+185.98.208.217 #suspicous IP
+213.121.190.228/32 #suspicous IP
+185.212.200.194/32 #suspicious IP_psychz.net
+91.223.224.181/32 #suspicious IP_atk-telecom.ru
