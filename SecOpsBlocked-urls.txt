@@ -372,3 +372,5 @@ financialtimes365.com
 gatexpiring.com
 humingbot.io
 teenbeanjs.com
+widgets.demand.exchange
+github.phala.one
