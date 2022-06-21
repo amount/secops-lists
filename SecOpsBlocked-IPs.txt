@@ -299,3 +299,4 @@
 # End of Blocked IPs for log4j
 83.110.108.226 #QAKBot
 165.227.180.6 #CobaltStrikeC2
+139.162.16.32 #possible metasploit (#107 in XSoar)
