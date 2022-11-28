@@ -309,3 +309,4 @@
 208.100.26.236 # Active sinkhole activity
 208.100.26.231 # Active sinkhole activity
 180.243.2.137 # Blocked for mozi botnet activity
+161.35.101.70 # CobaltStrike C2 Activity
