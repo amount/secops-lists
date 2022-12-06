@@ -418,3 +418,4 @@ apiujquery.com
 vuoriclothingtoday.com
 qa.ogeek.cn
 x.bidswitch.net
+defybrick.com # reported as phishing related
