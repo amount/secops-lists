@@ -311,3 +311,4 @@
 180.243.2.137 # Blocked for mozi botnet activity
 161.35.101.70 # CobaltStrike C2 Activity
 71.6.146.130 # shodan scanning domain
+104.152.52.194 # scanning
