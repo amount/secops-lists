@@ -419,4 +419,4 @@ vuoriclothingtoday.com
 qa.ogeek.cn
 x.bidswitch.net
 defybrick.com # reported as phishing related
-refrigerator.census.shodan.io # phishing related
+refrigerator.census.shodan.io # scanning related
