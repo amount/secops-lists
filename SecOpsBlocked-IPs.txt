@@ -318,3 +318,5 @@
 176.97.210.115 # C2 activity
 107.189.12.152 # C2 activity
 45.12.253.180 # C2 activity
+172.81.41.196 # C2 activity
+193.203.12.145 # C2 activity
