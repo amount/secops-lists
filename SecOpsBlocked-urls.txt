@@ -421,3 +421,4 @@ x.bidswitch.net
 defybrick.com # reported as phishing related
 refrigerator.census.shodan.io # scanning related
 uigfhidfhnsdnkv4.com #generated domain seen in aws traffic
+screamnet.xyz # seen attempting to deliver mirai botnet payload
