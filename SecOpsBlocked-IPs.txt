@@ -333,3 +333,5 @@
 167.71.28.99
 178.62.79.143 # still mirai activity
 46.3.112.155 # mirai
+109.206.240.231 # mirai
+167.172.24.169 # Cobalt strike
