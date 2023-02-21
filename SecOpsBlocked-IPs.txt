@@ -343,3 +343,5 @@
 98.159.98.243 # C2 activity mirai xsoar alert 12443
 205.185.123.115 # mirai source activity xsoar 9461
 34.23.210.248 # mirai source activity
+141.98.11.20 # see below
+47.87.229.145 # mirai activity xsoar 8779
