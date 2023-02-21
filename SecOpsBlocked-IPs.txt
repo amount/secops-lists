@@ -339,3 +339,4 @@
 46.3.112.162 # mirai xsoar alert 18173
 47.87.241.156 # mirai xsoar alert 18352
 167.172.175.228 # mirai xsoar alert 18352
+162.214.201.3 # seen attempting to exploit SIP CVE-2022-27255 feb21 2023
