@@ -337,3 +337,5 @@
 167.172.24.169 # Cobalt strike
 185.117.74.19 # mirai
 46.3.112.162 # mirai xsoar alert 18173
+47.87.241.156 # mirai xsoar alert 18352
+167.172.175.228 # mirai xsoar alert 18352
