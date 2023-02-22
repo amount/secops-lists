@@ -345,3 +345,4 @@
 34.23.210.248 # mirai source activity
 141.98.11.20 # see below
 47.87.229.145 # mirai activity xsoar 8779
+46.3.112.143 # more botnet activity
