@@ -347,3 +347,5 @@
 47.87.229.145 # mirai activity xsoar 8779
 46.3.112.143 # more botnet activity
 159.65.246.188 # Cobalt Strike C2
+64.93.80.146 # Mirai botnet
+194.87.151.204 # Mirai botnet
