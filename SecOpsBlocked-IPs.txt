@@ -349,3 +349,5 @@
 159.65.246.188 # Cobalt Strike C2
 64.93.80.146 # Mirai botnet
 194.87.151.204 # Mirai botnet
+94.232.46.201
+87.251.67.57 # more mirai
