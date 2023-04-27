@@ -425,4 +425,5 @@ screamnet.xyz # seen attempting to deliver mirai botnet payload
 invover.com # mirai activity
 f7slx.top # XSOAR 45656
 googie-anaiytlcs.com #Xsoar53317
-app.easyquote.pw #xsoar#59998
+app.easyquote.pw #xsoar59998
+e93qn.top #xsoar59994
