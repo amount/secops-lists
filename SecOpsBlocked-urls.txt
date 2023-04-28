@@ -429,3 +429,4 @@ app.easyquote.pw #xsoar59998
 e93qn.top #xsoar59994
 taobao.cn #xsoar60046
 cyberresilience.io #xsoar60044
+hat.census.shodan.io #xsoar60039
