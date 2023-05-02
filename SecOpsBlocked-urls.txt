@@ -432,3 +432,4 @@ cyberresilience.io #xsoar60044
 hat.census.shodan.io #xsoar60039
 einstein.census.shodan.io
 ninja.census.shodan.io # XSOAR 60142
+serverion.com #XSoar60052
