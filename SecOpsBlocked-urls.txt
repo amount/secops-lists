@@ -434,3 +434,4 @@ einstein.census.shodan.io
 ninja.census.shodan.io # XSOAR 60142
 serverion.com #XSoar60052
 every1dns.com #XSoar60395
+raw.net #Xsoar60210
