@@ -436,3 +436,4 @@ serverion.com #XSoar60052
 every1dns.com #XSoar60395
 raw.net #Xsoar60210
 zl-lax-us-gp1-wk125.internet-census.org #Xsoar60384
+sentry.oustatic.com #xsoar60553
