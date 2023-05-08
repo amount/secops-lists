@@ -439,3 +439,4 @@ zl-lax-us-gp1-wk125.internet-census.org #Xsoar60384
 sentry.oustatic.com #xsoar60553
 blocklist.de #xsoar60779
 prod-jerry-se-scanners-ams3-44.do.binaryedge.ninja #xsoar60866
+zg-1220c-145.stretchoid.com #Xsoar61047
