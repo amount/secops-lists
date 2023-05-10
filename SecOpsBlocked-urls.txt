@@ -441,3 +441,4 @@ blocklist.de #xsoar60779
 prod-jerry-se-scanners-ams3-44.do.binaryedge.ninja #xsoar60866
 zg-1220c-145.stretchoid.com #Xsoar61047
 www.cnnmoney.com #XSoar60399
+http://141.98.10.75/boatnet.mpsl #Xsoar 61531
