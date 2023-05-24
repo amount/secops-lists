@@ -443,3 +443,4 @@ zg-1220c-145.stretchoid.com #Xsoar61047
 www.cnnmoney.com #XSoar60399
 .census.shodan.io
 .threatsinkhole.com
+charming-needle.cloudvent.net #XSoar62319
