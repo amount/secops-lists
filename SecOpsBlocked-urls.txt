@@ -445,3 +445,4 @@ www.cnnmoney.com #XSoar60399
 .threatsinkhole.com
 charming-needle.cloudvent.net #XSoar62319
 myte.accnture.com #62986
+prod-jerry-se-scanners-blr1-0.do.binaryedge.ninja #xsoar63510
