@@ -444,3 +444,4 @@ www.cnnmoney.com #XSoar60399
 .census.shodan.io
 .threatsinkhole.com
 charming-needle.cloudvent.net #XSoar62319
+myte.accnture.com #62986
