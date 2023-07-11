@@ -441,4 +441,11 @@ blocklist.de #xsoar60779
 prod-jerry-se-scanners-ams3-44.do.binaryedge.ninja #xsoar60866
 zg-1220c-145.stretchoid.com #Xsoar61047
 www.cnnmoney.com #XSoar60399
-http://141.98.10.75/boatnet.mpsl #Xsoar 61531
+.census.shodan.io
+.threatsinkhole.com
+charming-needle.cloudvent.net #XSoar62319
+myte.accnture.com #62986
+prod-jerry-se-scanners-blr1-0.do.binaryedge.ninja #xsoar63510
+mail.applelounge.com #Xsoar 68907
+js.hsadspixel.com #Xsoar 68907
+dnavexch.com #Xsoar 68907
