@@ -425,5 +425,27 @@ screamnet.xyz # seen attempting to deliver mirai botnet payload
 invover.com # mirai activity
 f7slx.top # XSOAR 45656
 googie-anaiytlcs.com #Xsoar53317
-http://103.214.4.136/bins/jew.mpsl
-5.154.3.16/jack5tr.sh
+app.easyquote.pw #xsoar59998
+e93qn.top #xsoar59994
+taobao.cn #xsoar60046
+cyberresilience.io #xsoar60044
+hat.census.shodan.io #xsoar60039
+einstein.census.shodan.io
+ninja.census.shodan.io # XSOAR 60142
+serverion.com #XSoar60052
+every1dns.com #XSoar60395
+raw.net #Xsoar60210
+zl-lax-us-gp1-wk125.internet-census.org #Xsoar60384
+sentry.oustatic.com #xsoar60553
+blocklist.de #xsoar60779
+prod-jerry-se-scanners-ams3-44.do.binaryedge.ninja #xsoar60866
+zg-1220c-145.stretchoid.com #Xsoar61047
+www.cnnmoney.com #XSoar60399
+.census.shodan.io
+.threatsinkhole.com
+charming-needle.cloudvent.net #XSoar62319
+myte.accnture.com #62986
+prod-jerry-se-scanners-blr1-0.do.binaryedge.ninja #xsoar63510
+mail.applelounge.com #Xsoar 68907
+js.hsadspixel.com #Xsoar 68907
+dnavexch.com #Xsoar 68907
