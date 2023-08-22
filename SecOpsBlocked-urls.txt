@@ -449,3 +449,5 @@ prod-jerry-se-scanners-blr1-0.do.binaryedge.ninja #xsoar63510
 mail.applelounge.com #Xsoar 68907
 js.hsadspixel.com #Xsoar 68907
 dnavexch.com #Xsoar 68907
+http://37.221.65.77/OOFbins.sh
+http://37.139.129.26/SBIDIOT/mpsl #Xsoar 109323
