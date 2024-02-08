@@ -469,4 +469,7 @@ www.rt18m6213sr.com #Xsoar 120547
 www.epersianfood.com #Xsoar 120547
 http://193.31.28.13/mpsl #xsoar 112575
 captaintech.org
+cdn.dataofpages.com
+micfood.com
+sdemarchi.weebly.com
 http://45.66.230.169/hydro.mpsl #Xsoar 142818
